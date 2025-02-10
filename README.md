@@ -15,21 +15,21 @@ A simple and lightweight desktop application built with **PyQt5** to download vi
 To install the application, 
 
 ### For Linux 
-download the [.deb package](https://github.com/shamith-perera/ExifRemover/releases/download/v1.0.0/exifremover.deb) and install it using `dpkg`(for Debian/Ubuntu-based distributions) :
+download the [.deb package](https://github.com/shamith-perera/Yotube-Playlist-Downloader/releases/download/v1.0.0/yt-playlist-downloader.deb) and install it using `dpkg`(for Debian/Ubuntu-based distributions) :
 ```
 sudo dpkg -i yt-playlist-downloader.deb
 sudo apt-get install -f  # To resolve dependencies if needed
 ```
 #### or
 
-download the [.AppImage](https://github.com/shamith-perera/ExifRemover/releases/download/v1.0.0/Exif_Remover-x86_64.AppImage) and run it (Portable) :
+download the [.AppImage](https://github.com/shamith-perera/Yotube-Playlist-Downloader/releases/download/v1.0.0/Yt_Playlist_Downloader-x86_64.AppImage) and run it (Portable) :
 ```
 chmod +x Yt_Playlist_Downloader-x86_64.AppImage
 ./Yt_Playlist_Downloader-x86_64.AppImage
 ```
 
 ### For Windows
-download and run the [.exe](https://github.com/shamith-perera/ExifRemover/releases/download/v1.0.0/exif_remover.exe) file (Portable)
+download and run the [.exe](https://github.com/shamith-perera/Yotube-Playlist-Downloader/releases/download/v1.0.0/yt-playlist-downloader.exe) file (Portable)
 
 
 
@@ -50,6 +50,6 @@ Note: Make sure you have pip installed for Python and the necessary dependencies
 
 ### Acknowledgments
 This project uses the following open-source libraries:
-- yt_dlp – for downloading YouTube videos and extracting playlist details.
+- [yt_dlp](https://github.com/yt-dlp/yt-dlp) – for downloading YouTube videos and extracting playlist details.
 - PyQt5 – for building the graphical user interface (GUI).
 
