@@ -8,7 +8,6 @@ A simple and lightweight desktop application built with **PyQt5** to download vi
 - Specify a range of videos to download.  
 - Choose a custom download folder for saving files.  
 
-## Screenshots  
 ![image](https://github.com/user-attachments/assets/b073f638-4d07-4388-ade5-ac6d77ed886e)
 
 ## Installation:
